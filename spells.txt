@@ -1,2 +1,16 @@
 ;Class, Spell, Hotkey, AetherTime (in seconds)
 ;Hotkey can be 1-0 or {ShiftDown}z{ShiftUp}x{Enter}
+
+Poet, Heal, 1, 0
+Poet, ASV, 2, 0
+Poet, ATONE, 3, 0
+Poet, SC, 4, 
+Poet, , 5
+Poet, , 6
+Poet, RESTORE, 7
+Poet, INSPIRE, 8
+Poet, DISPELL, 9
+Poet, HB, 0
+Poet, Invoke, {ShiftDown}z{ShiftUp}z{Enter}
+Poet, GroupHeal, {ShiftDown}z{ShiftUp}x{Enter}
+Poet, SingleHOT, {ShiftDown}z{ShiftUp}t{Enter}
