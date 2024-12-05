@@ -1,0 +1,6 @@
+;Characters to associate with each instance
+
+Splif,Poet
+DrZeus,Mage
+Homie,Rogue
+ISwingWeapon,Warrior
