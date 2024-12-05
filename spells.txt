@@ -1,0 +1,2 @@
+;Class, Spell, Hotkey, AetherTime (in seconds)
+;Hotkey can be 1-0 or {ShiftDown}z{ShiftUp}x{Enter}
